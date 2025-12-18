@@ -35,13 +35,3 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nhut-Truong-2204&show_icons=true&theme=radical" alt="Nhut's GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Nhut-Truong-2204&theme=radical" alt="Nhut's GitHub Streak Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhut-Truong-2204&layout=compact&theme=radical" alt="Nhut's Top Languages" />
-</p>
-
----
